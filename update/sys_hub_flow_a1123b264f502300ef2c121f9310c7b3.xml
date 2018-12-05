@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description>Flow to coordinate activities and actions in the event of a priority 1 incident or outage for Epic systems.</description>
+        <label_cache>[{"name":"Created_1.current.cmdb_ci","label":"Trigger➛Incident Record➛Configuration item","reference":"cmdb_ci","reference_display":"Configuration item","type":"reference","base_type":"reference","parent_table_name":"incident","column_name":"cmdb_ci"},{"name":"Created_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"Created_1.current.sys_created_on","label":"Trigger➛Incident Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"incident","column_name":"sys_created_on"},{"name":"94ac01a7-47ca-45d5-86f1-00f8054ea8e1.record","label":"1➛Outage Record","reference":"cmdb_ci_outage","reference_display":"Outage","type":"reference","base_type":"reference"},{"name":"Created_1.current.cmdb_ci.support_group","label":"Trigger➛Incident Record➛Configuration item➛Support group","reference":"sys_user_group","reference_display":"Support group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"support_group"},{"name":"Created_1.current.cmdb_ci.change_control","label":"Trigger➛Incident Record➛Configuration item➛Approval group","reference":"sys_user_group","reference_display":"Approval group","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"change_control"},{"name":"0246f30e-10b0-4b05-8760-26b49bb98f82.approval_state","label":"4➛Approval State","type":"choice","base_type":"choice"},{"name":"Created_1.current.cmdb_ci.u_users","label":"Trigger➛Incident Record➛Configuration item➛Users","reference":"sys_user_group","reference_display":"Users","type":"reference","base_type":"reference","parent_table_name":"cmdb_ci","column_name":"u_users"}]</label_cache>
+        <latest_snapshot/>
+        <name>Epic Incident Flow</name>
+        <remote_trigger_id/>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 16:54:21</sys_created_on>
+        <sys_id>a1123b264f502300ef2c121f9310c7b3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Epic Incident Flow</sys_name>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_hub_flow_a1123b264f502300ef2c121f9310c7b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:23</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

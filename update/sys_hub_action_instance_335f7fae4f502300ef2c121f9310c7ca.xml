@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Epic Incident Flow">a1123b264f502300ef2c121f9310c7b3</flow>
+        <order>5.1</order>
+        <parent_ui_id>d9c3a850-27a0-43dd-91fb-d64d04d7a3c3</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>335f7fae4f502300ef2c121f9310c7ca</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Flow Design Lab" source="x_snc_sko18_flow">afb84abfdbdbcb006cedfd131d96199b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Flow Design Lab">afb84abfdbdbcb006cedfd131d96199b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_335f7fae4f502300ef2c121f9310c7ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <ui_id>ea440369-38eb-4000-8e30-3dd84dcf88d5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=335f7fae4f502300ef2c121f9310c7ca"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>335f7fae4f502300ef2c121f9310c7ca</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>335f7fae4f502300ef2c121f9310c7cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:24</sys_updated_on>
+        <value/>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>335f7fae4f502300ef2c121f9310c7ca</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:25</sys_created_on>
+        <sys_id>446f7fae4f502300ef2c121f9310c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <value>We are aware of Epic Issues</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>335f7fae4f502300ef2c121f9310c7ca</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:25</sys_created_on>
+        <sys_id>806f7fae4f502300ef2c121f9310c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <value/>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>335f7fae4f502300ef2c121f9310c7ca</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>f35f7fae4f502300ef2c121f9310c7cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:24</sys_updated_on>
+        <value>We are aware of Epic Issues</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=335f7fae4f502300ef2c121f9310c7ca"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:25</sys_created_on>
+        <sys_id>006f7fae4f502300ef2c121f9310c7fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>&lt;p&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="c4d48cce-c6d5-475b-b8bb-f62a57a27d0e" data-pillvalue="{{Created_1.current.u_email}}"&gt;Trigger➛Incident Record➛Message&lt;/span&gt;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>bf5f7fae4f502300ef2c121f9310c7cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>&lt;p&gt;&lt;span class="data_pill " contenteditable="false" data-pillid="c4d48cce-c6d5-475b-b8bb-f62a57a27d0e" data-pillvalue="{{Created_1.current.u_email}}"&gt;Trigger➛Incident Record➛Message&lt;/span&gt;&lt;/p&gt;</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:25</sys_created_on>
+        <sys_id>4c6f7fae4f502300ef2c121f9310c7fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>fb5f7fae4f502300ef2c121f9310c7cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:24</sys_created_on>
+        <sys_id>3b5f7fae4f502300ef2c121f9310c7cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:24</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{Created_1.current.cmdb_ci.u_users}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>335f7fae4f502300ef2c121f9310c7ca</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-05 17:52:25</sys_created_on>
+        <sys_id>886f7fae4f502300ef2c121f9310c7fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-05 17:52:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created_1.current.cmdb_ci.u_users}}</value>
+    </sys_element_mapping>
+</record_update>
